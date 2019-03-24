@@ -11,3 +11,17 @@ body {
   border: 2px solid black;
   padding: 45px 0 20px 40px;
 }
+.menu{
+  background: #000000a6;
+  padding: 6px 0 6px 40px;
+}
+.menu a{
+  color: #ffffff;
+  opacity: 0.5;
+  font-size: 14px;
+  font-family: 'Courier New', Courier, monospace;
+  text-decoration: none;
+}
+.menu a:hover{
+  opacity: 1;
+}
