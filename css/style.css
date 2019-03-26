@@ -60,6 +60,10 @@ aside h1{
   text-align: justify;
 }
 
+#home-image img {
+  width: 100%;
+}
+
 footer{
   padding: 6px 40px 6px 40px;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
