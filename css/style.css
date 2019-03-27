@@ -80,3 +80,25 @@ footer a {
 .seprator {
   font-size: 11px;
 }
+
+/****************************************** About Us Style *****************************************/
+
+#about-us #home-image img {
+  width: 55%;
+  float: left;
+  margin-bottom: 10px;
+}
+
+#about-us #profile-info {
+  width: 35%;
+  margin: 5px;
+  float: right;
+}
+
+#about-us .discription {
+  clear: both;
+}
+
+#about-us h2 {
+  color: blue;
+}
