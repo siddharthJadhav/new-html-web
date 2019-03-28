@@ -15,6 +15,11 @@ body {
   width: 780px;
 }
 
+.page-title {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
 .header {
   border: 2px solid black;
   padding: 45px 0 20px 40px;
@@ -101,4 +106,12 @@ footer a {
 
 #about-us h2 {
   color: blue;
+}
+
+/***********************************Contact Page*********************************************/
+#contact #form {
+  width: 500px;
+  border: 2px solid black;
+  padding: 10px;
+  margin: 0 auto;
 }
