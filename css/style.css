@@ -115,3 +115,21 @@ footer a {
   padding: 10px;
   margin: 0 auto;
 }
+
+#contact #form input {
+  width: 100%;
+  height: 20px;
+  border-radius: 5px;
+  background-color: #3c383a42;
+}
+
+#contact #form #message {
+  width: 100%;
+  border-radius: 5px;
+  background-color: #3c383a42;
+}
+
+#contact #form input#submit {
+      height: 30px;
+      background-color: #261cdedb;
+}
